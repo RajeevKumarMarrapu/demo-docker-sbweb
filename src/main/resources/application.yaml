@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo-docker-sbweb
+server.port: 8081
+
+demo.env: It's LOCAL Env
